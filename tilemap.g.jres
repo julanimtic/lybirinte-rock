@@ -1,0 +1,67 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile2"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAACACAAAAAAAAIiIAAAAAACACIAAAAAAAIAAgAAAAAAAgAAIAAAAAACAiAgAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAA7u7u7u7u7gDu7u7u7u7u7u7u7u7u7u7uXlVVVVVVVe5eVVVVVVVV7l5VVVVVVVXuXlVVVVVVVe5eVVVVVVVV7l5VVVVVVVXuXlVVVVVVVe5eVVVVVVVV7l5VVVVVVVXuXlVVVVVVVe7u7u7u7u7uAO7u7u7u7u4A7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile1"
+    },
+    "tile5": {
+        "data": "hwQQABAAAAD///////////////////////////////////9fVVVVVf//VVVVVVVV//9VVVVVVVX//1VVVVVVVf//VVVVVVVV//9VVVVVVVX//1VVVVVVVf//VVVVVVVV//9VVVVVVVX//1VVVVVVVf///////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile3"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P//AAAAAADw//8AAAD/////AAAAAB////8PAAAA/x////8AAAD/H/H//w8AAB///////wAA/////wDwAAAAAPD///AAAAAA8P//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile4"
+    },
+    "niveau1": {
+        "id": "niveau1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA0MDQwNDA0MDQwMTA5MDEwNjA4MDEwMjBhMGEwYTAxMDEwMTAxMDEwMTAxMGEwMTA4MDgwMTAxMDEwMTBhMGEwYTBhMGEwYTBhMGEwYTAwMDgwODAxMDEwNzAxMGEwMTAxMDEwMTAxMDEwMTAxMDEwMTBhMDEwMTA3MDEwYTBhMGEwYTAxMGEwYTBhMDEwYTAxMGEwMTAxMDcwMTAxMDEwMTAxMDEwMTAxMGEwMTBhMDEwYTAxMDEwNzBhMDEwYTBhMGEwYTA5MDEwYTBhMGEwMTBhMDEwMTAxMGEwMTBhMDEwMTAxMDEwMTBhMDEwYTAxMGEwMTAxMDEwYTAxMGEwYTBhMGEwYTBhMGEwMTBhMDEwYTAxMDEwMTBhMDEwMTAxMDEwMTAxMDEwYTAxMGEwMTBhMDEwMTAxMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTAxMGEwMTAxMDEwMTAxMDEwMTAxMDEwMTBhMDEwYTAxMDEwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMGEwMTBhMDEwOTBhMDEwMTA5MGEwYTBhMGEwYTBhMGEwYTAxMGEwNTBhMGEwMzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjIyMjIwMjAwMDAwMjAyMjAwMDAwMDIyMjIyMDIwMjIwMjIwMjAwMDAwMDAwMDIyMDAyMDIyMjIyMjIyMjIyMjAwMjAyMDAwMDAwMjAwMDIwMDIyMjIyMjIyMjIwMjAyMDAyMDAwMDAwMjAyMDIwMjAyMjIwMjAyMjIyMjAyMDIwMjIyMDAwMDAwMDIwMjAyMDIyMjAyMjIyMjIyMDIwMjAyMjAwMDAwMDAyMDAyMDIwMjIyMjAyMjIwMjAyMjIyMjIyMjIwMjIyMDIwMjAyMjAwMjAwMDAwMDAwMDIwMDAwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorLight0",
+            "myTiles.tile3",
+            "myTiles.tile5",
+            "sprites.dungeon.chestClosed",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.dungeon.collectibleRedCrystal",
+            "sprites.dungeon.chestOpen",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "myTiles.tile6",
+            "sprites.dungeon.darkGroundCenter"
+        ],
+        "displayName": "niveau1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
